@@ -57,7 +57,8 @@ Tools needed :
 - [x] Evaluation
 - [x] Feedback
 - [x] Re-tune (Done & added credit scoring)
-- [ ] Re-upload (Will be uploaded shortly)
+- [x] Re-upload Notebook
+- [ ] Re-upload Analyses Report (will be uploaded shortly, still need a little adjustment)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
